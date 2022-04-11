@@ -1,3 +1,3 @@
 # Modeling-and-Simulation
 
-Implementations of popular Modeling and Simulation problems.
+Implementations of popular Modeling and Simulation techniques.
